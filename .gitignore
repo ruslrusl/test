@@ -1,0 +1,19 @@
+# Intellij Idea
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Java
+*.class
+*.classpath
+*.project
+
+# Maven
+target
+
+# etc
+*.dmp
+*.trc
+*.jpb
+*.log
